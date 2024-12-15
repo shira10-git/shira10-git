@@ -62,11 +62,6 @@ Logical thinker with a strong work ethic, punctual, responsible, capable of self
 
 ---
 
-## ❤️ Employment and Community Volunteering
-- 🎓 Mentoring students for matriculation exams.
-- 🤝 Regular volunteering with children with special needs.
-
----
 
 ## 🌎 Languages
 - **Hebrew:** Native language.  
