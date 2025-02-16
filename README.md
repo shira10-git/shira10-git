@@ -29,7 +29,7 @@ Logical thinker with a strong work ethic, punctual, responsible, capable of self
 ## 🔧 Professional Knowledge
 
 **🔄 Programming Languages:** C++, C, C#, Java, Python  
-**🌐 Web Technologies:** Node.js, WEB API, React, .Net Core, HTML5, CSS, JavaScript, Angular  
+**🌐 Web Technologies:** Node.js, WEB API, React, .Net Core, HTML5, CSS, JavaScript, Go, Angular  
 **🏛️ Databases:** MongoDB, SQL Server, MySQL, DynamoDB  
 **💻 Operating Systems:** Windows, Linux/Unix  
 **🎮 Development Environments:** Jupyter, PyCharm, Eclipse, Visual Studio, VS Code  
